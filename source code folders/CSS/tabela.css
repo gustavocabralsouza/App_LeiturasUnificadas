@@ -1,0 +1,27 @@
+table{
+	background-color:#ffffff;
+	border-radius:8px;
+	width: 55%;
+}
+.imgtabela{
+	width: 100%;
+}
+th{
+	text-align: center;
+	color: 32CD32;
+	border-radius:8px;
+}
+td{
+	text-align: center;
+	color: 32CD32;
+}
+b{
+	font:arial;
+	font-size: 18px;
+}
+.tbl_title{
+	font:arial;
+	font-size: 25px;
+	font-style: bold;
+}
+

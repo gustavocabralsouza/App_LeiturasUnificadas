@@ -1,0 +1,111 @@
+/*******************************************************
+	CSS - Matrícula Form - V1
+*******************************************************/
+
+
+/*******************************************************
+	Grupo - 1
+*******************************************************/
+
+#G1 {
+		box-sizing: border-box;	
+		width: 100%;
+		height: auto;
+		float: left;
+		margin: 0;
+		padding: 10px 10%;
+}
+#G3 {
+		box-sizing: border-box;	
+		width: 100%;
+		height: auto;
+		float: left;
+		margin: 0;
+		padding: 10px 10%;
+		border-color: #90EE90
+}
+
+#G2 {
+		box-sizing: border-box;	
+		width: auto;
+		height: auto;
+		float: left;
+		margin-left: 34%;
+		margin-top: 10%;
+		padding: 10px 10%;
+		border-color: #90EE90
+		
+}
+
+	
+	/*******************************************************
+		Textos 
+	*******************************************************/
+	
+	.TituloForm {
+			box-sizing: border-box;	
+			width: 100%;
+			height: auto;
+			float: left;
+			color: #FFFFFF;
+			text-align: center;
+			font-size: 30pt;
+			margin: 0;
+			padding: 10px 0;
+			background-color: 	#32CD32;
+			border: 1px solid #000000;
+	}
+	
+	.TituloForm2 {
+			box-sizing: border-box;	
+			width: 100%;
+			height: auto;
+			float: left;
+			color: 	#32CD32;
+			text-align: left;
+			font-size: 24pt;
+			margin: 0;
+			padding: 10px 0;
+	}
+	
+	.TextoForm {
+			box-sizing: border-box;	
+			width: 100%;
+			height: auto;
+			float: left;
+			color: 	#32CD32;
+			font-size: 14pt;
+			margin: 10px 0;
+			padding: 0;
+	}
+	
+	/*******************************************************
+		Formulário
+	*******************************************************/
+	
+	fieldset {
+			box-sizing: border-box;	
+			width: 100%;
+			height: auto;
+			float: left;
+			margin: 10px 0;
+			padding: 0 10px;
+			border: 1px solid #000000;
+			background-color: #ffffff;
+	}
+
+	input{
+			box-sizing: border-box;	
+			margin: 0;
+			padding: 0;	
+			
+	}
+
+	input, input[type=radio], select {
+			border: 1px solid #333333;
+	}
+
+	input[type=text] {
+			padding: 4px;
+			border: 1px solid #000000;
+	}

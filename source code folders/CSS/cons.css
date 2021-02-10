@@ -1,0 +1,146 @@
+#G2 {
+		box-sizing: border-box;	
+		width: 100%;
+		height: auto;
+		float: left;
+		margin: 0;
+		padding: 10px 10%;
+}
+
+	/*******************************************************
+		Box
+	*******************************************************/
+
+	.Box {
+			box-sizing: border-box;		
+			width: 100%;
+			height: 330px;
+			float: left;
+			margin: 5px 0;
+			padding: 10px 0 10px 10px;
+			transition: 0.3s;
+	}
+	
+	.Box2 {
+			box-sizing: border-box;		
+			width: 80%;
+			height: 32%;
+			float: left;
+			margin-left: 10%;
+			margin-right: 10%;
+			margin-top: 5%;
+			margin-bottom:15%;
+	}
+
+	.P1 {
+			display: block;
+			box-sizing: border-box;
+			width: 45%;
+			height: 100%;
+			float: left;
+			margin: 0;
+			padding: 0;
+	}
+	
+	.P2 {
+			display: block;
+			box-sizing: border-box;
+			width: 55%;
+			height: auto;
+			float: left;
+			margin: 0;
+			padding: 0 0 0 10px;
+	}
+	
+		.TituloBox {
+				box-sizing: border-box;
+				width: 100%;
+				float: left;
+				color: #000000;
+				font-size: 25pt;
+				margin-top: 2%;
+				padding: 0;
+		}
+		
+		.TextoBox {
+				text-align:justify;
+				box-sizing: border-box;
+				width: 100%;
+				float: left;
+				color: #000000;
+				font-size: 16pt;
+				margin-right:10%;
+				padding: 5px 5px 5px 5px;
+		}
+		
+		.TituloBox2 {
+				box-sizing: border-box;
+				width: 100%;
+				float: left;
+				color: #32CD32;
+				font-size: 25pt;
+				margin-top: 0;
+				padding: 0;
+		}
+		
+		.TextoBox2 {
+				text-align:justify;
+				box-sizing: border-box;
+				width: 100%;
+				float: left;
+				color: #32CD32;
+				font-size: 16pt;
+				margin-right:10%;
+				padding: 5px 5px 5px 5px;
+		}
+			
+		
+	#B1 {
+			background-color: #ffffff;
+			border-left: 4px solid #009900;
+	}
+	
+	#B1:hover {
+			background-color: #009900;
+	}
+	
+	#B2 {
+			background-color: #ffffff;
+			border-left: 4px solid #009900;
+	}
+	
+	#B2:hover {
+			background-color: #009900;
+	}
+	
+	#B3 {
+			background-color: #ffffff;
+			border-left: 4px solid #009900;
+	}
+	
+	#B3:hover {
+			background-color: #009900;
+	}
+	
+	#B4 {
+			background-color: #ffffff;
+			border-left: 4px solid #009900;
+	}
+	
+	#B4:hover {
+			background-color: #009900;
+	}
+	
+	#B5 {
+			background-color: #ffffff;
+			border-left: 4px solid #009900;
+	}
+	
+	#B5:hover {
+			background-color: #009900;
+	}
+	
+	#bpesquisa {
+			background-color: #ffffff;
+			border-left: 4px solid #009900;
+	}
